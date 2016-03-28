@@ -1,5 +1,7 @@
 # device-asset
 
+[Live Demo](http://artnotfound.github.io/device-asset/)
+
 ## Motivation
 
 `device-asset` is used to read the browser's `window` + `screen` to calculate the best file size you should use for a given asset. Additionally,
