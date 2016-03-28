@@ -3,7 +3,7 @@
 ## Motivation
 
 `device-asset` is used to read the browser's `window` + `screen` to calculate the best file size you should use for a given asset. Additionally,
-you can pass options like `base` and `ext` to immediately create the correct filename path.
+you can pass options like `base` and `ext` to immediately create the correct asset path.
 
 ## Specific Devices supported:
 
