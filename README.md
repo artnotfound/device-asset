@@ -123,9 +123,9 @@ var devices = getOptions(da.getDevices());
 
 ```
 
-## Non-npm Usage
+## Non-Node Usage
 
-To use outside of NPM, require the `device-asset-min.js` file in your project which will expose a global `deviceAsset` object.
+To use outside of Node, require the `device-asset-min.js` file in your project which will expose a global `deviceAsset` object.
 
 ```html
 <html>
