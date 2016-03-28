@@ -1,0 +1,22 @@
+{
+  "name": "device-asset",
+  "version": "1.0.0",
+  "description": "Easily get device-specific assets.",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo 'lol'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/artnotfound/device-asset"
+  },
+  "keywords": [
+    "device",
+    "assets"
+  ],
+  "author": "manny404",
+  "license": "ISC"
+}
