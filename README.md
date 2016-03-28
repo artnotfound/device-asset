@@ -89,7 +89,7 @@ var customConfig = {
   },
   "custom_thing_2": {
     "displayName": "Custom Thing 2",
-    "fileName": "custom_thing 2",
+    "fileName": "custom_thing_2",
     "res": {
       "w": 200,
       "h": 300
