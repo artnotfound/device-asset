@@ -1,6 +1,6 @@
 # device-asset
 
-[Live Demo](http://artnotfound.github.io/device-asset/)
+[Live Demo](http://mannynotfound.github.io/device-asset/)
 
 ## Motivation
 
